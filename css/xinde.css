@@ -48,7 +48,7 @@ div#content-column div.content-inner {
 }
 
 @media (max-width: 451px) {
-	div#tasks ul.tabs li[href*="past"]{
+	div#tasks ul.tabs li a[href*="past"]{
 		display: none;
 	}
 }
