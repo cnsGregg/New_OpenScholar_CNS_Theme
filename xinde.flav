@@ -7,7 +7,7 @@
 
   name        = Xin de 
   description = New test theme
-  module      = cleanblue
+  module      = commodore
   screenshot  = screenshot.png
 
 ;----------// Stylesheets
