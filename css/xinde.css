@@ -45,6 +45,6 @@ h1, h2, h3, h4 {
 }
 
 
-body::after {
+*::after {
 	content:'Get a new browser. IE is no longer supported.'
 }
