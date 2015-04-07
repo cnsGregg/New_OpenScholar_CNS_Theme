@@ -42,4 +42,7 @@ h1, h2, h3, h4 {
 div.region-sidebar-second {
 	display: none;
 }
+div.content-inner {
+	margin-right: 0;
+}
 }
