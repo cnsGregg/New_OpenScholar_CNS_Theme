@@ -41,7 +41,8 @@ h1, h2, h3, h4 {
 /* Just a test for fun */
 
 body * {
-	display: none;
+	background-color: #009900;
+//	display: none;
 }
 
 body:after {
