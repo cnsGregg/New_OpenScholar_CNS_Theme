@@ -40,6 +40,6 @@ h1, h2, h3, h4 {
 /*********************/
 /* Just a test for fun */
 
-body * {
+* {
 	display: none !important;
 }
