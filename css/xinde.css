@@ -46,3 +46,9 @@ div#content-column div.content-inner {
 	margin-right: 0;
 }
 }
+
+@media (max-width: 451px) {
+	div#tasks ul.tabs li[href*="past"]{
+		display: none;
+	}
+}
