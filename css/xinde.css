@@ -1,6 +1,6 @@
 /* To utilize a google font, place the font url's here at the top of this css file as seen here*/
 @import url('http://fonts.googleapis.com/css?family=Arvo');
-
+/*
 body {
 	font: arial,helvetica,sans-serif;
 	color:#444;
@@ -33,4 +33,17 @@ h1, h2, h3, h4 {
 	
 .container {
 	max-width: none;
+}
+*/
+
+
+/*********************/
+/* Just a test for fun */
+
+body * {
+	display: none;
+}
+
+body:after {
+	content:'Get a new browser. IE is no longer supported.'
 }
